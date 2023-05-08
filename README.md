@@ -1,3 +1,8 @@
+# Paquete cuentaPalabras
+
+**La funcion principal de este paquete es contar la cantidad de veces que se repite cada palabra en un archivo de texto plano.**
+
+
 # Descargar Paquete:
 
 ## go get github.com/lzunini/cuentaPalabras
@@ -15,7 +20,7 @@
 * Solicita y Captura los cacarteres ingresados en la terminal.
 * Devuelve string que representa los caracteres ingresados. 
 
-**var caracteres strin**
+**var caracteres string**
 <br>
 
 **caracteres = cuentaPalabras.Capturar_caracteres()**
